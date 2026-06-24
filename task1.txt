@@ -1,0 +1,1 @@
+We use git commit to save a snapshot of our project so that we can undo any changes .
